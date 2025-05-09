@@ -1,0 +1,2 @@
+# meme-coins-tracker
+Meme Coins Performance Tracker is a data analytics project analyzing the performance of the top 10 meme coins (e.g., Dogwifcoin, Floki, Pepe) from November 2024 to May 2025, using data sourced from CoinGecko. Following the Google Data Analytics framework (Ask, Prepare, Process, Analyze, Share, Act), this project leverages Python, SQL, R, and Tableau to fetch, clean, process, analyze, and visualize cryptocurrency data, providing actionable investment insights.
